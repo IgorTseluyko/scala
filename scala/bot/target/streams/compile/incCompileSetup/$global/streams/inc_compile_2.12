@@ -1,0 +1,249 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\Main$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\Main$delayedInit$body.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\Main.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Chat$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Chat.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\From$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\From.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Message$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Message.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Result$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Result.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Updates$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Updates.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\UpdatesJsonProtocol$.class
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\UpdatesJsonProtocol.class
+binary dependencies:
+8 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.0.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> C:\Users\Igor_Tseluiko\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.0.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> C:\Users\Igor_Tseluiko\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> C:\Users\Igor_Tseluiko\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Main
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Main$
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Main$delayedInit$body
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Chat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Chat$
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.From
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.From$
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Message
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Message$
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Result
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Result$
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Updates
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model.Updates$
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> model.UpdatesJsonProtocol
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> model.UpdatesJsonProtocol$
+used names:
+111 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> <init>
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> App
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Codec
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Main
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Predef
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Source
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> String
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> StringContext
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> Updates
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> UpdatesJsonProtocol
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> api
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> convertTo
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> fallbackSystemCodec
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> fromURL
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> getUpdates
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> io
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> json
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> mkString
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> model
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> offset
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> package
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> parseJson
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> pimpString
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> println
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> response
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> s
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> scala
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> send
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> spray
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> timeout
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> token
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> updates
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> updatesFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> url
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> &&
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> <init>
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> ==
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> AbstractFunction2
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> AbstractFunction4
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> AbstractFunction5
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Boolean
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Chat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> From
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Int
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> List
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Message
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> None
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Option
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Predef
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Product
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Result
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> ScalaRunTime
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Serializable
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Statics
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> String
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Tuple2
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Tuple4
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Tuple5
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> Updates
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> _root_
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> _toString
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> _type
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> anyHash
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> asInstanceOf
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> chat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> date
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> eq
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> finalizeHash
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> first_name
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> from
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> id
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> isInstanceOf
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> last_name
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> message
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> message_id
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> mix
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> model
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> ok
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> package
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> result
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> runtime
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> scala
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> text
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> toString
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> typedProductIterator
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> update_id
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> usernam
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> username
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> ||
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> <init>
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> BooleanJsonFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> ClassManifestFactory
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> DefaultJsonProtocol
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> IntJsonFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> StringJsonFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> UpdatesJsonProtocol
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> chatFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> classType
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> fromFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> json
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> jsonFormat2
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> jsonFormat4
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> jsonFormat5
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> listFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> messageFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> model
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> reflect
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> resultFormat
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> scala
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> spray
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> updatesFormat
+product stamps:
+15 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\Main$.class -> lastModified(1480340342860)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\Main$delayedInit$body.class -> lastModified(1480340342861)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\Main.class -> lastModified(1480340342859)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Chat$.class -> lastModified(1480340342871)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Chat.class -> lastModified(1480340342871)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\From$.class -> lastModified(1480340342869)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\From.class -> lastModified(1480340342869)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Message$.class -> lastModified(1480340342868)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Message.class -> lastModified(1480340342867)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Result$.class -> lastModified(1480340342866)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Result.class -> lastModified(1480340342865)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Updates$.class -> lastModified(1480340342865)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\Updates.class -> lastModified(1480340342863)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\UpdatesJsonProtocol$.class -> lastModified(1480340342873)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\target\scala-2.12\classes\model\UpdatesJsonProtocol.class -> lastModified(1480340342872)
+source stamps:
+3 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> hash(9b5605b289f25196e9037abc0985bccf43e8e225)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> hash(c8a857fc28e7ca86c9a561235b3af1c257c9a8fb)
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> hash(0e4d941fa37f2dbfc3b6d012c13eb86d17898f14)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1473151014469)
+C:\Users\Igor_Tseluiko\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar -> lastModified(1430920873000)
+C:\Users\Igor_Tseluiko\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.0.jar -> lastModified(1477696052000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Igor_Tseluiko\.ivy2\cache\io.spray\spray-json_2.11\bundles\spray-json_2.11-1.3.2.jar -> spray.json.DefaultJsonProtocol
+C:\Users\Igor_Tseluiko\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.0.jar -> scala.package$
+internal apis:
+3 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBTG+GkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPbjxQZ0AAZub3RpZnlzcQB+AAxOTUcbdAAEd2FpdHNxAH4ADGBKIyZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMogLr93QABmVxdWFsc3NxAH4ADIt3LQh0AAxhc0luc3RhbmNlT2ZzcQB+AAzyefQMdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxIJtIodAAMc3luY2hyb25pemVkc3EAfgAMEvrNp3QADSRpc0luc3RhbmNlT2ZzcQB+AAyeLcqzdAAEbWFpbnNxAH4ADF0q7PN0AAlub3RpZnlBbGxzcQB+AAyoh3JZdAAMaXNJbnN0YW5jZU9mc3EAfgAMEL0SNXQACHJlc3BvbnNlc3EAfgAMEB/3uHQABm9mZnNldHNxAH4ADPWClaB0AAd1cGRhdGVzc3EAfgAMRUAxYXQAAj09c3EAfgAMMdillnQABWNsb25lc3EAfgAMU+lUQHQABXRva2Vuc3EAfgAMffmpknQABE1haW5zcQB+AAwp2qJXdAAIdG9TdHJpbmdzcQB+AAxBBRmwdAAEYXJnc3NxAH4ADCjdrE10AAIhPXNxAH4ADKfzsY90AANhcGlzcQB+AAz2jva6dAAIZ2V0Q2xhc3NzcQB+AAzTS0awdAACbmVzcQB+AAyKl1Y2dAAHdGltZW91dHNxAH4ADP/Rprx0AAJlcXNxAH4ADPQdCB10AAtkZWxheWVkSW5pdHNxAH4ADPFkLAV0AApnZXRVcGRhdGVzc3EAfgAMdYe8gnQAAiMjc3EAfgAMDOt+n3QACGZpbmFsaXplc3EAfgAM1PBKR3QACGhhc2hDb2Rlc3EAfgAMUIPesHQABHNlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBxeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBwAHBzcQB+AHVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB5c3EAfgBwAHBzcQB+AHV1cQB+AFIAAAAAc3EAfgBwAHBzcQB+AHV1cQB+AFIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFhxAH4AYXVxAH4AYgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIZ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AeHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB4c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgBkAHEAfgAfdXEAfgBmAAAAAHNxAH4Ak3QABFVuaXRxAH4AmXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGl0AAVQbGFpbnEAfgA1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCUWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB4c3EAfgCTdAAFQXJyYXlxAH4AmXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCTdAAGU3RyaW5nc3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3QABGphdmFzcQB+AJ90AARsYW5ncQB+AKRzcQB+AHAAcHNxAH4AdXVxAH4AuwAAAARzcQB+AJN0AANBcHBxAH4AmXNxAH4Ak3QAC0RlbGF5ZWRJbml0cQB+AJlzcQB+AJN0AAZPYmplY3RxAH4Av3NxAH4Ak3QAA0FueXEAfgCZdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVirKPZcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEM6XFVzZXJzXElnb3JfVHNlbHVpa29cRGVza3RvcFxiZW5jaFxzY2FsYVxib3RcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJtWBbKJ8lGW6QN6vAmFvM9D6OIl
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC2FfPqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAM3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHczPWZ0AAZub3RpZnlzcQB+AAy+o4x7dAAKZmlyc3RfbmFtZXNxAH4ADBesg/t0AAVfdHlwZXNxAH4ADMM7qsZ0AARDaGF0c3EAfgAM9Z1canQABHdhaXRzcQB+AAyfZx0AdAAOY29weSRkZWZhdWx0JDJzcQB+AAwNlUYCdAANJGFzSW5zdGFuY2VPZnNxAH4ADNSOzNt0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADH+pXfp0AAxwcm9kdWN0QXJpdHlzcQB+AAzIfBsVdAAGZXF1YWxzc3EAfgAMNejVyHQACHVzZXJuYW1lc3EAfgAMZ7aNN3QADGFzSW5zdGFuY2VPZnNxAH4ADJFnR/B0AAZyZXN1bHRzcQB+AAxUBHL0dAAMc3luY2hyb25pemVkc3EAfgAMNoyou3QADSRpc0luc3RhbmNlT2ZzcQB+AAwpDHifdAAJdXBkYXRlX2lkc3EAfgAMgIP533QABHRleHRzcQB+AAzfwmAOdAAIY2FuRXF1YWxzcQB+AAySk+9TdAAOY29weSRkZWZhdWx0JDRzcQB+AAx+hvOGdAANcHJvZHVjdFByZWZpeHNxAH4ADIgQkLB0AAlub3RpZnlBbGxzcQB+AAxA+lurdAAMaXNJbnN0YW5jZU9mc3EAfgAMRL/vgnQABGNoYXRzcQB+AAzXR8D8dAAGPGluaXQ+c3EAfgAMIiKwc3QACm1lc3NhZ2VfaWRzcQB+AAz3QiVfdAACaWRzcQB+AAwsR7HEdAAEZGF0ZXNxAH4ADKzwH+t0AAlsYXN0X25hbWVzcQB+AAyVO7JCdAACPT1zcQB+AAyUZz9jdAAFY2xvbmVzcQB+AAzigdiedAAHVXBkYXRlc3NxAH4ADPF+VsJ0AARmcm9tc3EAfgAMrYfCXnQAB01lc3NhZ2VzcQB+AAz/DMrUdAAOY29weSRkZWZhdWx0JDNzcQB+AAxyzmrNdAAEY29weXNxAH4ADM7mj8V0AAdtZXNzYWdlc3EAfgAMybthWXQACHRvU3RyaW5nc3EAfgAMHRzTNnQAAiE9c3EAfgAMwadb8XQAAm9rc3EAfgAMk0hFbXQACGdldENsYXNzc3EAfgAMcZWgQXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMrA3JNnQABlJlc3VsdHNxAH4ADK00BRB0AAJuZXNxAH4ADPdXdHl0AAd1c2VybmFtc3EAfgAM1aLN4HQABEZyb21zcQB+AAyF8BrgdAACZXFzcQB+AAxI8mXAdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM1I6V4nQAAiMjc3EAfgAMyfgiRHQACGZpbmFsaXplc3EAfgAMa8lGnXQADnByb2R1Y3RFbGVtZW50c3EAfgAMZutIy3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AfXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADW1vZGVsLlVwZGF0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJUAcHNxAH4AmnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB9TAAJaW5oZXJpdGVkcQB+AH1MAAdwYXJlbnRzcQB+AH14cQB+AJ5zcQB+AJUAcHNxAH4AmnVxAH4AeAAAAABzcQB+AJUAcHNxAH4AmnVxAH4AeAAAAABzcQB+AJUAcHNxAH4AmnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AnXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AnXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Au3NxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunQABGphdmFzcQB+ALp0AAJpb3EAfgC/c3EAfgCudAAHUHJvZHVjdHEAfgC0c3EAfgCudAAGRXF1YWxzcQB+ALRzcQB+AK50AAZPYmplY3RzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AMVzcQB+ALp0AARsYW5ncQB+AL9zcQB+AK50AANBbnlxAH4AtHNxAH4AenEAfgCHdXEAfgCIAAAAAHNxAH4AigB0AAxtb2RlbC5SZXN1bHR1cQB+AI0AAAAAcQB+AJF1cQB+AJMAAAAAc3EAfgCVAHBzcQB+AJpxAH4An3NxAH4AlQBwc3EAfgCac3EAfgCic3EAfgCVAHBzcQB+AJp1cQB+AHgAAAAAc3EAfgCVAHBzcQB+AJp1cQB+AHgAAAAAc3EAfgCVAHBzcQB+AJp1cQB+AKwAAAAGc3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6cQB+AL1xAH4Av3NxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDFc3EAfgC6dAACaW9xAH4Av3NxAH4ArnEAfgDJcQB+AOtzcQB+AK50AAZFcXVhbHNxAH4A63NxAH4ArnEAfgDNc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDFc3EAfgC6cQB+ANNxAH4Av3NxAH4ArnEAfgDVcQB+AOtzcQB+AHpxAH4Ah3VxAH4AiAAAAABzcQB+AIoAdAANbW9kZWwuTWVzc2FnZXVxAH4AjQAAAABxAH4AkXVxAH4AkwAAAABzcQB+AJUAcHNxAH4AmnEAfgCfc3EAfgCVAHBzcQB+AJpzcQB+AKJzcQB+AJUAcHNxAH4AmnVxAH4AeAAAAABzcQB+AJUAcHNxAH4AmnVxAH4AeAAAAABzcQB+AJUAcHNxAH4AmnVxAH4ArAAAAAZzcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALpxAH4AvXEAfgC/c3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AMVzcQB+ALp0AAJpb3EAfgC/c3EAfgCucQB+AMlxAH4BFXNxAH4ArnQABkVxdWFsc3EAfgEVc3EAfgCucQB+AM1zcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AMVzcQB+ALpxAH4A03EAfgC/c3EAfgCucQB+ANVxAH4BFXNxAH4AenEAfgCHdXEAfgCIAAAAAHNxAH4AigB0AAptb2RlbC5Gcm9tdXEAfgCNAAAAAHEAfgCRdXEAfgCTAAAAAHNxAH4AlQBwc3EAfgCacQB+AJ9zcQB+AJUAcHNxAH4AmnNxAH4AonNxAH4AlQBwc3EAfgCadXEAfgB4AAAAAHNxAH4AlQBwc3EAfgCadXEAfgB4AAAAAHNxAH4AlQBwc3EAfgCadXEAfgCsAAAABnNxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgC9cQB+AL9zcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunQAAmlvcQB+AL9zcQB+AK5xAH4AyXEAfgE/c3EAfgCudAAGRXF1YWxzcQB+AT9zcQB+AK5xAH4AzXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunEAfgDTcQB+AL9zcQB+AK5xAH4A1XEAfgE/c3EAfgB6cQB+AId1cQB+AIgAAAAAc3EAfgCKAHQACm1vZGVsLkNoYXR1cQB+AI0AAAAAcQB+AJF1cQB+AJMAAAAAc3EAfgCVAHBzcQB+AJpxAH4An3NxAH4AlQBwc3EAfgCac3EAfgCic3EAfgCVAHBzcQB+AJp1cQB+AHgAAAAAc3EAfgCVAHBzcQB+AJp1cQB+AHgAAAAAc3EAfgCVAHBzcQB+AJp1cQB+AKwAAAAGc3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6cQB+AL1xAH4Av3NxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDFc3EAfgC6dAACaW9xAH4Av3NxAH4ArnEAfgDJcQB+AWlzcQB+AK50AAZFcXVhbHNxAH4BaXNxAH4ArnEAfgDNc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDFc3EAfgC6cQB+ANNxAH4Av3NxAH4ArnEAfgDVcQB+AWl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVtb2RlbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWKso9lx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcVXNlcnNcSWdvcl9Uc2VsdWlrb1xEZXNrdG9wXGJlbmNoXHNjYWxhXGJvdFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyKhX/CjnyobJpWEjWzrxwlfJqPs=
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH0CfgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNjiffXQADlVuaXRKc29uRm9ybWF0c3EAfgALGNROfXQACmxpc3RGb3JtYXRzcQB+AAukwLuRdAAMdmVjdG9yRm9ybWF0c3EAfgALAqJO/nQADHJlc3VsdEZvcm1hdHNxAH4AC5grfnl0ABJSb290SnNPYmplY3RGb3JtYXRzcQB+AAtEMDmqdAARQm9vbGVhbkpzb25Gb3JtYXRzcQB+AAtf7/lgdAAJc2V0Rm9ybWF0c3EAfgALZk05NXQAEVJvb3RKc0FycmF5Rm9ybWF0c3EAfgAL2UGrMnQADUpzVmFsdWVGb3JtYXRzcQB+AAvzA2IedAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAsiCgADdAAMdHVwbGUxRm9ybWF0c3EAfgALJDet33QAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAtts+obdAAMb3B0aW9uRm9ybWF0c3EAfgALggNnBHQAD2xpbmVhclNlcUZvcm1hdHNxAH4AC5K+9Ih0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgALyGW/bnQADHR1cGxlNUZvcm1hdHNxAH4AC8F7eFZ0AAx0dXBsZTNGb3JtYXRzcQB+AAvAUjIOdAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgALCsyoPXQADHR1cGxlN0Zvcm1hdHNxAH4AC2/ebkd0AA1tZXNzYWdlRm9ybWF0c3EAfgALu6HtyHQADGltbVNldEZvcm1hdHNxAH4ACwUrqHZ0AAxlaXRoZXJGb3JtYXRzcQB+AAsZGxNodAAOQ2hhckpzb25Gb3JtYXRzcQB+AAsdt47sdAAUQmlnRGVjaW1hbEpzb25Gb3JtYXRzcQB+AAszttA6dAAPU2hvcnRKc29uRm9ybWF0c3EAfgAL3eWUU3QACmZyb21Gb3JtYXRzcQB+AAv/JkPvdAAMdHVwbGU2Rm9ybWF0c3EAfgALxbfyeHQAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAuwJuptdAALYXJyYXlGb3JtYXRzcQB+AAsIbj15dAAKY2hhdEZvcm1hdHNxAH4ACyhcl9h0AA11cGRhdGVzRm9ybWF0c3EAfgALyxwoR3QAEWltbUl0ZXJhYmxlRm9ybWF0c3EAfgALbsrhznQADkJ5dGVKc29uRm9ybWF0c3EAfgALxzEUkHQADHR1cGxlMkZvcm1hdHNxAH4AC6cJDeJ0ABNpbW1JbmRleGVkU2VxRm9ybWF0c3EAfgAL+imO3XQADGltbVNlcUZvcm1hdHNxAH4ACxNbM5N0AAx0dXBsZTRGb3JtYXRzcQB+AAvzvhAwdAAPRmxvYXRKc29uRm9ybWF0c3EAfgALVculsXQADml0ZXJhYmxlRm9ybWF0c3EAfgALBvAkoXQADUludEpzb25Gb3JtYXRzcQB+AAvMdpApdAAQRG91YmxlSnNvbkZvcm1hdHNxAH4ACxeCgsV0AAltYXBGb3JtYXRzcQB+AAspAya2dAAJc2VxRm9ybWF0c3EAfgAL2Tt9pHQAEEJpZ0ludEpzb25Gb3JtYXR1cQB+AAkAAAA9c3EAfgALM9fcOXQABm5vdGlmeXNxAH4AC/4YHY90AARyZWFkc3EAfgALRKH8+XQACWZyb21GaWVsZHNxAH4AC16cmgN0AAtqc29uRm9ybWF0OXNxAH4AC1jjZBF0AAxqc29uRm9ybWF0MTZzcQB+AAtB1jnUdAAManNvbkZvcm1hdDIwc3EAfgALzQWXFnQABHdhaXRzcQB+AAuxUcCydAAGdmlhU2Vxc3EAfgAL25fc7nQACmxhenlGb3JtYXRzcQB+AAu7DFoGdAANJGFzSW5zdGFuY2VPZnNxAH4AC5RLN7x0AAxqc29uRm9ybWF0MTJzcQB+AAunlZnjdAAManNvbkZvcm1hdDEzc3EAfgALCmPKn3QAC2pzb25Gb3JtYXQyc3EAfgALZpnqgHQABmVxdWFsc3NxAH4AC4z5D1d0AAtqc29uRm9ybWF0NnNxAH4AC8pGDvh0ABNVcGRhdGVzSnNvblByb3RvY29sc3EAfgAL5gUninQADGFzSW5zdGFuY2VPZnNxAH4AC71MIgt0AAxqc29uRm9ybWF0MTVzcQB+AAsTuOcNdAACSkZzcQB+AAt9nHXfdAAMc3luY2hyb25pemVkc3EAfgALKnjNJHQADGpzb25Gb3JtYXQxMXNxAH4AC7Gg0sp0AA0kaXNJbnN0YW5jZU9mc3EAfgALZ2SEmHQAC2pzb25Gb3JtYXQ1c3EAfgALk4H09HQADGpzb25Gb3JtYXQyMXNxAH4AC1EBD610ABRwcm9kdWN0RWxlbWVudDJGaWVsZHNxAH4AC1qmlAh0AApyb290Rm9ybWF0c3EAfgALKJSylXQAHnByb2R1Y3RFbGVtZW50MkZpZWxkJGRlZmF1bHQkNHNxAH4AC50Rmk50AAxqc29uRm9ybWF0MTRzcQB+AAtYNmGgdAALanNvbkZvcm1hdDFzcQB+AAuSymQidAAOcm9vdEpzb25Gb3JtYXRzcQB+AAtDLFzldAAManNvbkZvcm1hdDE5c3EAfgALSZTA/3QACW5vdGlmeUFsbHNxAH4AC1jwZ9V0AAhkZWxlZ2F0ZXNxAH4ACzyIYFV0AAxpc0luc3RhbmNlT2ZzcQB+AAvxFR4adAAGPGluaXQ+c3EAfgALXoZPRnQACHJlYWRTb21lc3EAfgALbCU28XQAC2pzb25Gb3JtYXQ0c3EAfgALDXPInnQAAj09c3EAfgALeuE5nXQABWNsb25lc3EAfgALxid4e3QADGpzb25Gb3JtYXQxMHNxAH4ACzg4eLd0AAtqc29uRm9ybWF0MHNxAH4AC1TULW50AAxqc29uRm9ybWF0MjJzcQB+AAueGQLIdAAMT3B0aW9uRm9ybWF0c3EAfgALZqU/jHQADGpzb25Gb3JtYXQxOHNxAH4AC8KNz2V0AAh0b1N0cmluZ3NxAH4AC3TU2l90AApqc29uRm9ybWF0c3EAfgAL5p9+d3QAAiE9c3EAfgAL9+/5q3QAC2pzb25Gb3JtYXQ4c3EAfgALpaSVdHQACGdldENsYXNzc3EAfgALZZ4ziXQAAm5lc3EAfgALtq4Y4HQABGxpZnRzcQB+AAsLDJOUdAALanNvbkZvcm1hdDNzcQB+AAuk5CYRdAACZXFzcQB+AAsqT74bdAAFd3JpdGVzcQB+AAsF5+QxdAAKc2FmZVJlYWRlcnNxAH4AC8sPFeB0AAIjI3NxAH4AC3W5uel0AAhmaW5hbGl6ZXNxAH4AC2Jh8bx0AAhoYXNoQ29kZXNxAH4AC6S1IjR0ABFleHRyYWN0RmllbGROYW1lc3NxAH4AC4yRvUx0AAxqc29uRm9ybWF0MTdzcQB+AAvV8ClrdAALanNvbkZvcm1hdDdzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgDpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZbW9kZWwuVXBkYXRlc0pzb25Qcm90b2NvbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AQJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AQEAcHNxAH4BBnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDpTAAJaW5oZXJpdGVkcQB+AOlMAAdwYXJlbnRzcQB+AOl4cQB+AQpzcQB+AQEAcHNxAH4BBnVxAH4A5AAAAABzcQB+AQEAcHNxAH4BBnVxAH4A5AAAAABzcQB+AQEAcHNxAH4BBnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAJc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BCXQAE0RlZmF1bHRKc29uUHJvdG9jb2xzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AQlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNwcmF5c3EAfgEmdAAEanNvbnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEnc3EAfgEadAARQWRkaXRpb25hbEZvcm1hdHNxAH4BIHNxAH4BGnQADlByb2R1Y3RGb3JtYXRzcQB+ASBzcQB+ARp0ABdQcm9kdWN0Rm9ybWF0c0luc3RhbmNlc3EAfgEgc3EAfgEadAARQ29sbGVjdGlvbkZvcm1hdHNxAH4BIHNxAH4BGnQAD1N0YW5kYXJkRm9ybWF0c3EAfgEgc3EAfgEadAAMQmFzaWNGb3JtYXRzcQB+ASBzcQB+ARp0AAZPYmplY3RzcQB+AR5zcQB+ASF1cQB+ASQAAAADc3EAfgEmdAAEamF2YXNxAH4BJnQABGxhbmdxAH4BLXNxAH4BGnQAA0FueXNxAH4BHnNxAH4BIXVxAH4BJAAAAAJzcQB+ASZ0AAVzY2FsYXEAfgEtdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAFbW9kZWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVirKPZcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQASEM6XFVzZXJzXElnb3JfVHNlbHVpa29cRGVza3RvcFxiZW5jaFxzY2FsYVxib3RcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA5NlB+jfy2/w7bQEsE+uG0XiY8U
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\Main.scala -> 
+AAAAAAAAAAA=
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\Updates.scala -> 
+AAAAAAAAAAA=
+C:\Users\Igor_Tseluiko\Desktop\bench\scala\bot\src\main\scala-2.12\model\UpdatesJsonProtocol.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWKso9lx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XFVzZXJzXElnb3JfVHNlbHVpa29cRGVza3RvcFxiZW5jaFxzY2FsYVxib3RcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=

@@ -1,0 +1,13 @@
+compile
+run
+compile
+run
+build
+compile
+clean
+compile
+rebuild
+recompile
+clean
+compile
+run
