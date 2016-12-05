@@ -1,5 +1,5 @@
 import http.HttpManager._
-import response.ResponseHandler.processResponse
+import response.ResponseHandler._
 
 object Main extends App {
   var offset = 0
@@ -8,8 +8,8 @@ object Main extends App {
     val updates = getUpdates(offset)
     if (updates.ok && updates.result.nonEmpty) {
       updates.result.foreach { r =>
-        offset = r.update_id + 1
         processResponse(r.message.chat.id, r.message.text)
+        offset = r.update_id + 1
       }
     }
   }

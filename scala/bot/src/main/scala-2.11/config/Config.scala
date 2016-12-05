@@ -10,4 +10,5 @@ object Config {
   val undefined = load().getString("response.undefined")
   val connTimeOut = load().getInt("http.connectionTimeoutMs")
   val readTimeOut = load().getInt("http.readTimeOutMs")
+  val retryRequest = load().getInt("http.retryRequestMs")
 }
