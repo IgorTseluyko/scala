@@ -11,3 +11,4 @@ recompile
 clean
 compile
 run
+compile

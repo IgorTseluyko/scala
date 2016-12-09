@@ -1,6 +1,6 @@
 package http
 
-import config.Config.{connTimeOut, readTimeOut, timeout, url, retryRequest}
+import config.Config._
 import model.Updates
 import model.UpdatesJsonProtocol._
 import spray.json._
@@ -32,17 +32,28 @@ object HttpManager {
     })
   }
 
+  def sendMessage(chatId: Int, text: String, markup: JsValue): Unit = {
+    handleException({
+      val response = Http(url + "/sendmessage")
+        .postForm(Seq("chat_id" -> chatId.toString, "text" -> text, "reply_markup" -> markup.toString))
+        .timeout(connTimeOut, readTimeOut)
+        .asString
+        .body
+      println(s"response sent = $response")
+    })
+  }
+
   //TODO: google similar solutions, see scalaj.http doc
   def handleException[T](f: => T): T = {
     try {
       f
     } catch {
-      case e: Exception => {
+      case e: Exception =>
         println(e)
-        println("trying to repeat function after sleep")
+        println(s"sleep for $retryRequest ms")
         Thread sleep retryRequest
+        println("trying to repeat function after sleep")
         handleException(f)
-      }
     }
   }
 

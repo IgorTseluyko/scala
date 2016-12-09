@@ -4,7 +4,7 @@
 		module="bot$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20161128143651"
+		publication="20161202173356"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
@@ -29,6 +29,12 @@
 		</dependency>
 		<dependency org="io.spray" name="spray-json_2.11" rev="1.3.2" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
 			<artifact name="spray-json_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		</dependency>
+		<dependency org="com.typesafe" name="config" rev="1.3.1" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="config" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		</dependency>
+		<dependency org="org.scalaj" name="scalaj-http_2.12" rev="2.3.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="scalaj-http_2.12" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.0" transitive="false" conf="scala-tool->default(compile)">
 			<artifact name="scala-compiler" type="src" ext="jar" conf="sources" e:classifier="sources"/>
