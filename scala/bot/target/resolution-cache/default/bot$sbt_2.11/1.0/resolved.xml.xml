@@ -4,7 +4,7 @@
 		module="bot$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161202173522"
+		publication="20161214114617"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

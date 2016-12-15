@@ -9,6 +9,16 @@ import scalaj.http.Http
 
 object HttpManager {
 
+  def answerCallback(id: String, text: String): Unit ={
+    handleException({
+      val response = Http(url + "/answerCallbackQuery")
+        .postForm(Seq("callback_query_id" -> id, "text" -> text, "show_alert" -> "true"))
+        .asString
+        .body
+      println(s"callback answer received = $response")
+    })
+  }
+
   def getUpdates(offset: Int): Updates = {
     handleException({
       val updates = Http(url + "/getupdates")
@@ -19,6 +29,10 @@ object HttpManager {
       println(s"updates received = $updates")
       updates.parseJson.convertTo[Updates]
     })
+  }
+
+  def sendMessage(url: String): String = {
+    handleException(Http(url).timeout(connTimeOut, readTimeOut).asString.body)
   }
 
   def sendMessage(chatId: Int, text: String): Unit = {
@@ -49,7 +63,7 @@ object HttpManager {
       f
     } catch {
       case e: Exception =>
-        println(e)
+        println(e.printStackTrace())
         println(s"sleep for $retryRequest ms")
         Thread sleep retryRequest
         println("trying to repeat function after sleep")

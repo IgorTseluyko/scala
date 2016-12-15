@@ -4,7 +4,7 @@
 		module="bot-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161202153201"
+		publication="20161214114612"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
